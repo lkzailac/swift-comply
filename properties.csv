@@ -1,0 +1,77 @@
+property_id,account_number,name,address1,address2,city,state_prov,country_code,postal_code,primary_contact_id,notes,survey_compliance,last_survey,next_survey
+100062,,Children's Hospital,1552 Naples National CT,,Snoqualiamish,WA,US,98215,67,,false,2007-11-06,2012-11-06
+97,5684-000,Peck Doran P C,1556 N Inverness St,,Snoqualamish,WA,US,98215,7,,false,2006-02-17,2011-02-17
+702,17063-000,Maria Elena's Mexican Restaurant,5026 S Library Rd,,Snoqualamish,WA,US,98215,52,,false,2008-03-24,2013-03-24
+824,18362-000,Quality Surface of Metro Snoqualamish,7359 W Seay CT,,Snoqualamish,WA,US,98215,59,,false,2008-01-27,2013-01-27
+835,19182-000,Real Property Valuations Inc,9089 S Linksway Dr,,Snoqualamish,WA,US,98215,60,,false,2010-12-21,2015-12-21
+100016,,Academy Veterinary Hospital,8350 Lighthouse CT,,Snoqualiamish,WA,US,98215,65,,false,2004-08-14,2011-08-14
+100045,,Bethesda At St Anthony Hospital North,1802 Woodcreek Pl,,Snoqualiamish,WA,US,98215,66,,false,2008-02-21,2013-02-21
+861,20089-000,A-Quest Electronics,5289 W Preston Mill CT,,Snoqualamish,WA,US,98215,64,,false,2004-08-22,2011-08-22
+100122,,Hospital Shared Services Warehouse,5998 Buena Park Dr,,Snoqualiamish,WA,US,98215,70,,false,2007-01-26,2012-01-26
+219,8070-000,Taylors Liquors,445 S Perkins Ln,,Snoqualamish,WA,US,98215,11,,false,2007-07-08,2012-07-08
+255,8561-000,World Computer Corporation,7816 S Yankee St,,Snoqualamish,WA,US,98215,17,,false,2007-11-03,2012-11-03
+511,13070-000,Omelet House Restaurant,709 W Wallace Dr,,Snoqualamish,WA,US,98215,39,,false,2004-07-28,2011-07-28
+513,13079-000,Wej Management Corp,4424 S Red Barn St,,Snoqualamish,WA,US,98215,40,,false,2010-06-16,2015-06-16
+762,21643-000,Splash of Color,464 S Kodiak CT,,Snoqualamish,WA,US,98215,55,,false,2008-01-27,2013-01-27
+798,18166-000,Toys-R-Us,515 W Vinson Dr,,Snoqualamish,WA,US,98215,58,,false,2008-01-03,2013-01-03
+100414,,Willie,12212,,,,US,,,,,,
+299,9125-000,Midwest Sales CO,4557 S Frank St,,Snoqualamish,WA,US,98215,22,,false,2007-03-26,2012-03-26
+45,22096-000,Rainbow Rebuilders,6694 S Abbotsford Way,Median/26-632-440-#21,Snoqualamish,WA,US,98215,2,,false,2010-12-22,2011-12-22
+377,10849-000,Mr Smith's Restaurant,4370 S Robin Hood Ln,,Snoqualamish,WA,US,98215,29,,false,2007-08-09,2012-08-09
+68,22782-000,Storewise Software Inc,5038 Somerset Rd,,Snoqualamish,WA,US,98215,3,,false,2008-02-13,2013-02-13
+150,7280-000,Mex Imports,6471 S Chant CT,,Snoqualamish,WA,US,98215,9,,false,2008-01-06,2013-01-06
+502,12907-000,Mile High Lounge,7002 S Village Green Dr,,Snoqualamish,WA,US,98215,38,these are comments,false,2006-08-06,2011-08-06
+661,16745-000,So Fine Limousine Service,3947 W Greenlawn Dr,,Snoqualamish,WA,US,98215,47,,,2002-04-10,
+788,18079-000,Steward Painting & Restoration,3727 W Carter's Corner Rd,,Snoqualamish,WA,US,98215,57,,,,
+100127,,Hospitality Flowers & Gifts,6725 Sheridan St,,Snoqualiamish,WA,US,98215,71,,false,2003-02-07,2011-02-28
+495,12762-000,Southwest Radiographics,9458 S Rolling Ridge Way,,Snoqualamish,WA,US,98215,37,,false,2007-01-12,2012-01-12
+529,13335-000,Advantage Brokers,5120 S Webb St,,Snoqualamish,WA,US,98215,42,,,2002-09-09,
+651,16625-000,29th Ave Liquor,4880 N Beech Ridge Dr,,Snoqualamish,WA,US,98215,45,,false,2004-10-12,2011-10-12
+100412,,Bill's Balloon Bonanza,1111 Helium Way,,San Rafael,CA,US,94901,73,,false,2014-04-03,2015-04-03
+246,8403-000,Screenplay Video Centers,7805 S Archer Ln,,Snoqualamish,WA,US,98215,14,,,2003-11-16,
+347,,Resolution Trust Corp,1905 S Hillyer Ave,,Snoqualamish,WA,US,98215,26,,false,2007-11-16,2012-11-16
+364,10443-000,Rains-Flo Packings,5102 E Clark-Shaw Rd,,Snoqualamish,WA,US,98215,27,,,2002-11-15,
+494,12725-000,Lingerie Etc,1760 S Cuyuga Dr,,Snoqualamish,WA,US,98215,36,,false,2008-01-27,2013-01-27
+100087,,U S Hospitality Consultant,2714 Woodsfield CT,,Snoqualiamish,WA,US,98215,68,,,,
+294,9094-000,Mercer William M Incorporated,5707 S Chatham Dr,,Snoqualamish,WA,US,98215,19,,false,2008-02-23,2013-02-23
+343,9981-000,Redding Equipment CO,2230 S Vinmar Way,,Snoqualamish,WA,US,98215,25,,false,2006-10-07,2011-10-07
+439,11884-000,Labriola Machine,1577 S Meadow Ash Dr,,Snoqualamish,WA,US,98215,33,,false,2006-04-10,2011-04-10
+724,17352-000,New Again Auto Re-Con Systems,881 S Fawn Meadow CT,,Snoqualamish,WA,US,98215,53,,false,2006-10-12,2011-10-12
+845,19897-000,Lanyon Sprinkler CO,4709 N Prairie Run Dr,,Snoqualamish,WA,US,98215,63,,false,2010-12-21,2015-12-21
+295,9122-000,Sears J L & Associates Real Estate,7323 S Fairway Rd,,Snoqualamish,WA,US,98215,20,,,2003-08-24,
+662,16748-000,Sloan Paul & Charlene Sloan,4903 W Federal Cir,,Snoqualamish,WA,US,98215,48,,,,
+769,17776-000,National Lender Services Inc,5450 N Grace CT,,Snoqualamish,WA,US,98215,56,,false,2010-12-21,2015-12-21
+757,17637-000,Little Ceasars Pizza,122 Taylor DR,,Fairfax,CA,US,94930,54,,,2003-04-17,
+151,7281-000,Tafoya Electric,1795 S Church View CT,,Snoqualamish,WA,US,98215,10,,false,2004-08-02,2011-08-02
+249,8430-000,Malecall II,9044 S Kelsey CT,,Snoqualamish,WA,US,98215,16,,false,2011-11-29,2016-11-29
+296,9122-000,Lamar Ventures,2941 S Adara Dr,,Snoqualamish,WA,US,98215,21,,false,2009-03-02,2014-03-02
+339,9897-000,Riley Income Tax Service,1710 W Liberty Rd,,Snoqualamish,WA,US,98215,24,,false,2007-04-26,2012-04-26
+657,23592-000,Park Mayfair Home Owners Assoc,6931 W Meadow Bend Dr,,Snoqualamish,WA,US,98215,46,,false,2009-07-24,2014-07-24
+685,16891-000,A & B Forest Fresh CO,4415 N Ferguson Ave,,Snoqualamish,WA,US,98215,50,,false,2006-08-03,2011-08-03
+23,8767-000,Seniors in Community Living Inc,9095 S Greyson Dr,,Snoqualamish,WA,US,98215,1,,false,2009-02-16,2011-02-16
+90,5644-000,Sheridan Sanitation District #2,7022 N Ryan Meadow Pl,,Snoqualamish,WA,US,98215,6,,false,2008-03-08,2013-03-08
+692,16989-000,Steele Elementary School,6916 W Crooked Elm CT,,Snoqualamish,WA,US,98215,51,,false,2008-02-08,2013-02-08
+838,19545-000,Mann Robert Oriental,1637 W Ketterington Ln,,Snoqualamish,WA,US,98215,61,,false,2006-12-09,2011-12-09
+100092,,Echosphere Corporation,7210 West View Dr,,Snoqualiamish,WA,US,98215,69,,false,2006-09-22,2011-09-22
+547,14394-000,Boulder Mtn Overcharge Claim Audit,7930 S Mays Ln,,Snoqualamish,WA,US,98215,43,,,2003-04-13,
+629,16462-000,R L Plimpton Assoc Inc,7480 N Lakehurst CT,,Snoqualamish,WA,US,98215,44,,false,2007-09-09,2012-09-09
+839,19728-000,Xelco Collection Service,4535 Willow Park CT,,Snoqualamish,WA,US,98215,62,,false,2007-08-11,2012-08-11
+69,22782-000,Lakewood Family Medical Clinic Pc,7846 Champions CT,,Snoqualamish,WA,US,98215,4,,false,2010-12-21,2015-12-21
+82,5081-000,Polymedica Industries Inc,2672 N Hornsea Dr,,Snoqualamish,WA,US,98215,5,,false,2006-04-04,2011-04-04
+221,22403-000,North Star Liquor,7698 E Hunters Bnd,,Snoqualamish,WA,US,98215,12,,,2002-04-18,
+224,8087-000,LA Salle Partners,5622 E Sterling Glen Dr,,Snoqualamish,WA,US,98215,13,,false,2008-03-06,2013-03-06
+274,8795-000,Specialty Systems,785 S Wallsend CT,,Snoqualamish,WA,US,98215,18,,,2003-05-22,
+418,11682-000,Mattress Factory The,6732 S Olde Dublin Woods Dr,,Snoqualamish,WA,US,98215,32,,false,2006-03-15,2011-03-15
+100410,,Greg's House of Pancakes,1435 N El Monte BLVD,,Snoqualamish,Wa,US,98215,,,,,
+248,8415-000,Willie's Place,8488 S Strathmoore Rd,,Snoqualamish,WA,US,98215,15,,false,2008-02-09,2013-02-09
+374,10672-000,Weber Management Company,6679 S Cross Creek CT,,Snoqualamish,WA,US,98215,28,,false,2008-03-17,2013-03-17
+388,11398-000,Academy T V Service,7704 E Quarter Way,,Snoqualamish,WA,US,98215,30,,false,2011-11-29,2016-11-29
+398,11476-000,Pacific Jewelry & Loan CO,2566 S Main Rd,,Snoqualamish,WA,US,98215,31,,false,2008-02-02,2013-02-02
+461,12105-000,Ollie's Roundup,9451 S Banbridge Ln,,Snoqualamish,WA,US,98215,35,,false,2004-11-13,2011-11-13
+522,24264-000,Metro Dishwasher,3557 W Lawton St,,Snoqualamish,WA,US,98215,41,,,,
+26,21739-0,Littleton Garage Door Service,6669 S Scottwood CT,,Snoqualamish,WA,US,98215,0,,false,2009-06-01,2014-06-01
+138,6669-000,T-M Service CO,1328 S Dogwood Ln,,Snoqualamish,WA,US,98215,8,,false,2008-01-18,2013-01-18
+309,9315-000,A Flag House,1583 W Kim Rd,,Snoqualamish,WA,US,98215,23,,,2002-12-09,
+450,11993-000,World Wide Funding,197 W Maxwell Ave,,Snoqualamish,WA,US,98215,34,,,,
+665,16755-000,Opus One Designs,3166 S Guard-Well St,,Snoqualamish,WA,US,98215,49,,false,2006-09-14,2011-09-14
+100129,,Hospitality Group Inc The,429 Cali Glen Ln,,Snoqualiamish,WA,US,98215,72,,false,2008-03-28,2013-03-28
