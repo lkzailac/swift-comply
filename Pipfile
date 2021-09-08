@@ -5,9 +5,6 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-numpy = "*"
-pytz = "*"
-python-dateutil = "*"
 
 [dev-packages]
 
